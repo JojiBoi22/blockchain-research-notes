@@ -121,10 +121,17 @@ Blockchains vary in how decentralised they are. Key factors include:
 
 Source: [Starknet](https://www.starknet.io/glossary/what-is-decentralization-in-blockchain/)
 
+### Issues and Challenges in Blockchain
+*(Diagram reference from course materials)*
+
+### Visual of how a Merkle tree works
+*(Diagram reference from course materials)*
+
 ---
 
 ## Resources
 - Module 1 Unit 1 (the components of blockchain) – course PDF
+- Module 1 Unit 2 (Reaching Consensus) – course PDF
 - Bitcoin whitepaper (optional deeper reading)
 - Merkle paper (digital signature based on conventional encryption function)
 - AJIC article (linked in Notion)
